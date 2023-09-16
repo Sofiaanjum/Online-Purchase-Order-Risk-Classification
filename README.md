@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This repository contains the code and steps for the "Online Purchase Order Risk Classification" project for the AIGC 5005 course.
+This repository contains the code and steps for the "Online Purchase Order Risk Classification" project.
 
 The project aims to classify online purchase orders into different risk categories. It involves data exploration, preprocessing, building and evaluating machine learning models, and generating predictions for test data.
 
