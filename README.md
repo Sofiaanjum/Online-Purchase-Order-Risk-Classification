@@ -1,6 +1,6 @@
 # Online Purchase Order Risk Classification
 
-**Repository:** [https://github.com/Sofiaanjum/AIGC5005_MidtermProject]
+**Repository:** [(https://github.com/Sofiaanjum/Online-Purchase-Order-Risk-Classification)]
 
 ## Project Description
 
