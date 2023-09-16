@@ -1,4 +1,4 @@
-# AIGC 5005 Midterm Project - Online Purchase Order Risk Classification
+# Online Purchase Order Risk Classification
 
 **Repository:** [https://github.com/Sofiaanjum/AIGC5005_MidtermProject]
 
